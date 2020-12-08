@@ -12,7 +12,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "真心疼他 zxtest Your application description page.";
         }
     }
 }
