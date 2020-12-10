@@ -12,7 +12,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            Message = " 55 zxtest Your application description page.";
+            Message = " 2020-12-10-1 zxtest Your application description page.";
         }
     }
 }
